@@ -1,10 +1,10 @@
 {
   "version": "0.2.0",
   "notes": "Two new tools: JPG to PDF, and HTML to PDF.\n\nJPG to PDF puts photos and screenshots on pages — choose the sheet, the orientation and the border, or fit the page to the picture exactly. Pictures are never cropped or stretched, and JPG data is carried across untouched.\n\nHTML to PDF prints a saved web page or an exported report, keeping text as real selectable text.",
-  "pub_date": "2026-07-31T19:55:00Z",
+  "pub_date": "2026-07-31T20:05:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY0F4RnFSY1hvMFk2TnhEYkdvTlJoVnR4RlpEL3Q5akdibVdjM25SbGZqNlhGbG50MWI3TUQ0MXRKbFJaOGI2S2lXckJ2TEVoTmdwT2JVVzBhQUJJRHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI3NDc0CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4wX3g2NC1zZXR1cC5leGUKeGtDVmpob0dZU0Y2ZVdiKzd4cnlEV3FJZ2ZWV1UvbzdDZklzSnIxK0QrRGVaWDNCV3lrK29Xc2JrQnRKamkrUWFXeVQrOXJwcWN5bGUydTBmMmFyQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY1BRSVRCMnlxUzNmK2F3YXZ1RUczNHNYY2JIbkpsN3JBWk9TV3EzS0ZtNktJbmZxQUhsOVZWYnhMck5pdFRjemlpbEpPeGpHcmhvZHdKUkNXMXR2clEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI4MTE3CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4wX3g2NC1zZXR1cC5leGUKZW4zZkx6Qk5kUDI3YUNqNXZhWkljRlV6azN5bTVoQ0xEV3hEcFRUaDZPOXNDNzF3RnVHV1RZUCtMTVBMRk5ESUdnVXpLWEEwVzZnT1greXM2OC9QQ0E9PQo=",
       "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.0/iLoveBFCpdfs_0.2.0_x64-setup.exe"
     }
   }
