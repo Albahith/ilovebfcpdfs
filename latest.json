@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Compress PDF now has a third mode.\n\nShrink images resizes and re-encodes the pictures inside a PDF while leaving every word selectable — on most documents that is where the space actually is. A 281-page manual goes from 6.7 MB to 4.8 MB with the text untouched.\n\nSmallest file no longer spends ten seconds finding out it cannot help. It measures a few pages first and stops if the result would be larger than the original.\n\nAnd before you start, the panel now tells you what the file is made of and what each mode will do about it.",
-  "pub_date": "2026-08-02T17:27:45Z",
+  "version": "0.2.2",
+  "notes": "A maintenance release. No tools changed and nothing looks different.\n\nThe key used to sign application updates has been rotated as a precaution, and this release is the bridge between the old one and the new one.\n\nPlease install it. A copy left on the previous version stays on the old key, and once the changeover is complete it can only be updated by reinstalling by hand.",
+  "pub_date": "2026-08-02T18:46:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY005OVQ4eUFYR0ZyU2FWeDZwSkY2VFJvbVdvZmNZQVBsTlJHQ1hjRzlEbSt6elAzZWFhcE10dTdKVTNGbkpIZkIzd3A5eVFNRTk1cHpLaXRtOWQrMWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjkxNTE1CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4xX3g2NC1zZXR1cC5leGUKaEd0bENTMFR4cExxckROdGNtSXNsUTNBZm83cHdqbERQZGViRHlOTFlBNFBSbDE5OVVNTlNLRWdUUC9yVGdCR1M0K2FMVUxWbllabUF5SG8wVFlUQmc9PQo=",
-      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.1/iLoveBFCpdfs_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY0ZXakdYN01ySVY0UHJWNmZmUGhYNldzdGx4VXFFZWdzVmlqZW11NlN1cjhzMUNJUFZwSy84bXprTWhJRVo0NE9aUE9rMUtBRmhUTzJETmp0NnBlSGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Njk2MzI0CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4yX3g2NC1zZXR1cC5leGUKSGJ2R01tZitRMms2emdEZ3NocmpTa3RaaGErZVRpcWFXTkFGSUMyTklBVHd0OW9oOWtndDdnUUN3MUFjMEs1VGpBdTl3VVJvQk9BRm15b0F3QlJBRGc9PQo=",
+      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.2/iLoveBFCpdfs_0.2.2_x64-setup.exe"
     }
   }
 }
