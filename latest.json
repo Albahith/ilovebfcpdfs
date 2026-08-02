@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Two new tools: JPG to PDF, and HTML to PDF.\n\nJPG to PDF puts photos and screenshots on pages — choose the sheet, the orientation and the border, or fit the page to the picture exactly. Pictures are never cropped or stretched, and JPG data is carried across untouched.\n\nHTML to PDF prints a saved web page or an exported report, keeping text as real selectable text.",
-  "pub_date": "2026-07-31T20:05:00Z",
+  "version": "0.2.1",
+  "notes": "Compress PDF now has a third mode.\n\nShrink images resizes and re-encodes the pictures inside a PDF while leaving every word selectable — on most documents that is where the space actually is. A 281-page manual goes from 6.7 MB to 4.8 MB with the text untouched.\n\nSmallest file no longer spends ten seconds finding out it cannot help. It measures a few pages first and stops if the result would be larger than the original.\n\nAnd before you start, the panel now tells you what the file is made of and what each mode will do about it.",
+  "pub_date": "2026-08-02T17:27:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY1BRSVRCMnlxUzNmK2F3YXZ1RUczNHNYY2JIbkpsN3JBWk9TV3EzS0ZtNktJbmZxQUhsOVZWYnhMck5pdFRjemlpbEpPeGpHcmhvZHdKUkNXMXR2clEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTI4MTE3CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4wX3g2NC1zZXR1cC5leGUKZW4zZkx6Qk5kUDI3YUNqNXZhWkljRlV6azN5bTVoQ0xEV3hEcFRUaDZPOXNDNzF3RnVHV1RZUCtMTVBMRk5ESUdnVXpLWEEwVzZnT1greXM2OC9QQ0E9PQo=",
-      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.0/iLoveBFCpdfs_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY005OVQ4eUFYR0ZyU2FWeDZwSkY2VFJvbVdvZmNZQVBsTlJHQ1hjRzlEbSt6elAzZWFhcE10dTdKVTNGbkpIZkIzd3A5eVFNRTk1cHpLaXRtOWQrMWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjkxNTE1CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4xX3g2NC1zZXR1cC5leGUKaEd0bENTMFR4cExxckROdGNtSXNsUTNBZm83cHdqbERQZGViRHlOTFlBNFBSbDE5OVVNTlNLRWdUUC9yVGdCR1M0K2FMVUxWbllabUF5SG8wVFlUQmc9PQo=",
+      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.1/iLoveBFCpdfs_0.2.1_x64-setup.exe"
     }
   }
 }
