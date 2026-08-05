@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "PDF to Word keeps a table's shape now.\n\nColumns are found the way the page draws them, so a column of labels is no longer swallowed into the figures beside it, and dates stay left while amounts line up on the right. The sheet size and margins come from the original rather than defaulting to Letter, pictures appear where they were drawn, and Arabic reads correctly inside table cells.\n\nIf an update is ever refused, the message now tells you how to recover instead of telling you not to.",
-  "pub_date": "2026-08-05T14:33:31Z",
+  "version": "0.2.5",
+  "notes": "Excel to PDF is new: a workbook printed the way it looks, keeping its number formats, fonts, colours, merged cells and column widths. Hidden sheets stay hidden, and charts are not drawn.\n\nThe tools are arranged in pairs now, each converter directly under the one it reverses.\n\nHelp has become a full manual - every tool, every option, and what each one will not do.\n\nThis notice is new too. It only appears because you asked to be told about updates; that setting is in the About panel.\n\nHTML to PDF has been removed.",
+  "pub_date": "2026-08-05T18:42:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZRUllwOXBlMWJlM2RRTlYxMW02OExReVQ2Zmt3K1hLN1J0R3p3VWJ4S20ybkkyZ24rTTNkQmkyKzBNNmlqZ0JrVDNhbnJjbktiNmxXbkltaTBIN1I4MENjMlhLamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTM3MjA5CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi40X3g2NC1zZXR1cC5leGUKaHJrdWJ5a2d5eXVkT0o5NzVKUWw3Z1EyZGxNZlRrQU1oeXRsNnowWkZsK1NyMWY5NGU3K3R2Mm5nMXJhLzJ4d1JoV0xPamFNZElnQnY1R0VvUGNrQUE9PQo=",
-      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.4/iLoveBFCpdfs_0.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZRUllwOXBlMVhCQXhHNklibStDMDNhTkVFVWxEWW0rYUJvUXRaYml0TElwZERGY1FaeDBCTU9Tajh4a0FiSldWK2FIZ0FwVlNCY1hIL0xFWEpTR0M3K1ZDYzdRd0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTU1MjU3CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi41X3g2NC1zZXR1cC5leGUKQzdZUGFmcXR5N3dpNDdMZnB5U0RTUEw4ZXY3L3lpVzBKbnJPam04N2JTVmUyaXFsMVV0Y2JTaXFvVmQ1WkRWc3hpN0laMDdYc3pHQk5NYkNCOEtRQVE9PQo=",
+      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.5/iLoveBFCpdfs_0.2.5_x64-setup.exe"
     }
   }
 }
