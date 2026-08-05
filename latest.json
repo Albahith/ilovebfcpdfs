@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Compress PDF now has one control with three levels: Extreme, Recommended and Less.\n\nAll three resize and re-encode the pictures inside your PDF while leaving every word of text exactly as it was. Print-ready documents finally compress properly — a 1073-page technical book goes from 53.7 MB to about 14 MB, where before it managed 3%.\n\nBefore you start, the panel tells you what the file is made of and what the chosen level will do about it.",
-  "pub_date": "2026-08-03T05:16:35Z",
+  "version": "0.2.4",
+  "notes": "PDF to Word keeps a table's shape now.\n\nColumns are found the way the page draws them, so a column of labels is no longer swallowed into the figures beside it, and dates stay left while amounts line up on the right. The sheet size and margins come from the original rather than defaulting to Letter, pictures appear where they were drawn, and Arabic reads correctly inside table cells.\n\nIf an update is ever refused, the message now tells you how to recover instead of telling you not to.",
+  "pub_date": "2026-08-05T14:33:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3dWc0ttbGhFY0FUZzZucDl6ZFE3ZVFUeHNMVnJDbytGTmErV0dHYUMvMzBoV0NXSGFaQ3AzSEpmMHNqdExybnNDcVhQV1hrWkZWempscmxqL3BSMzZrelNKclk5NFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzM0MDM4CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi4zX3g2NC1zZXR1cC5leGUKNTAwMG4xZTFPbkpUdlJFb29VeGppSFBlWVlGZko1Y2QyTVdncElRVlRoZ3lDaU5odGNRMHpZZXdVZGpGa2FLc1g2aXNRUlNDMWhweWpubUxmOGsyQVE9PQo=",
-      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.3/iLoveBFCpdfs_0.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZRUllwOXBlMWJlM2RRTlYxMW02OExReVQ2Zmt3K1hLN1J0R3p3VWJ4S20ybkkyZ24rTTNkQmkyKzBNNmlqZ0JrVDNhbnJjbktiNmxXbkltaTBIN1I4MENjMlhLamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTM3MjA5CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi40X3g2NC1zZXR1cC5leGUKaHJrdWJ5a2d5eXVkT0o5NzVKUWw3Z1EyZGxNZlRrQU1oeXRsNnowWkZsK1NyMWY5NGU3K3R2Mm5nMXJhLzJ4d1JoV0xPamFNZElnQnY1R0VvUGNrQUE9PQo=",
+      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.4/iLoveBFCpdfs_0.2.4_x64-setup.exe"
     }
   }
 }
