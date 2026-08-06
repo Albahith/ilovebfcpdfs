@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "Excel to PDF is new: a workbook printed the way it looks, keeping its number formats, fonts, colours, merged cells and column widths. Hidden sheets stay hidden, and charts are not drawn.\n\nThe tools are arranged in pairs now, each converter directly under the one it reverses.\n\nHelp has become a full manual - every tool, every option, and what each one will not do.\n\nThis notice is new too. It only appears because you asked to be told about updates; that setting is in the About panel.\n\nHTML to PDF has been removed.",
-  "pub_date": "2026-08-05T18:42:48Z",
+  "version": "0.2.6",
+  "notes": "PDF to Word, and six things it was getting wrong.\n\nA scanned page came out at three-quarters of the sheet, with the text read from it landing beside the picture of itself - and two scanned pages became three, with a blank one between them. A scan also made the document eight times the size of the PDF; a 523 KB form now converts to 533 KB instead of 4.5 MB.\n\nIn tables: half a header came out black, and two-column rows collapsed into a single line with the right column slid across the page. Both are fixed, along with the header row of the same table, which turned out to need a different fix again.\n\nEvery one of these was found by converting a real document and measuring the result against the page it came from.",
+  "pub_date": "2026-08-06T11:05:15Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZRUllwOXBlMVhCQXhHNklibStDMDNhTkVFVWxEWW0rYUJvUXRaYml0TElwZERGY1FaeDBCTU9Tajh4a0FiSldWK2FIZ0FwVlNCY1hIL0xFWEpTR0M3K1ZDYzdRd0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTU1MjU3CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi41X3g2NC1zZXR1cC5leGUKQzdZUGFmcXR5N3dpNDdMZnB5U0RTUEw4ZXY3L3lpVzBKbnJPam04N2JTVmUyaXFsMVV0Y2JTaXFvVmQ1WkRWc3hpN0laMDdYc3pHQk5NYkNCOEtRQVE9PQo=",
-      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.5/iLoveBFCpdfs_0.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRnZRUllwOXBlMVQzUElZVk0weG1KY2R1NHRUNnJVV1QyRGNKMFVsUWVVeWFjTEROTmkwWW5nOFViSjg3OThtKzZqSTBYaUZJYncydngrMHk5cytjb09CbmlWRDRIYUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDE0MjM3CWZpbGU6aUxvdmVCRkNwZGZzXzAuMi42X3g2NC1zZXR1cC5leGUKaitDQ25rYmVmV0ZoMDV5MDBEemdISFVlcXE1cjVnUHF3eWtFUGQ4QkRqSXJUYit2TEVBUkhSek83WjI1NG10bGpmVWlhZDg5ZEE4QUhzYW52Mkk3QlE9PQo=",
+      "url": "https://github.com/Albahith/ilovebfcpdfs/releases/download/v0.2.6/iLoveBFCpdfs_0.2.6_x64-setup.exe"
     }
   }
 }
